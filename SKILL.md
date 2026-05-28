@@ -67,6 +67,7 @@ Based on Role + Stage + Goal, select the primary output:
 | A printable student worksheet / 可打印的学生学习单 | Worksheet Design / 学习单设计 | Section "Worksheet Templates" |
 | A step-by-step teaching plan / 分步教学计划 | Workflow Plan / 操作流程 | Section "Workflows" |
 | An assessment rubric/checklist / 评估量规/检查表 | Evaluation Tool / 评估工具 | Section "Evaluation Tools" |
+| A self/peer evaluation rubric with feedback stems / 自评互评两用分析性量规+话术卡 | Analytic Rubric + Peer Feedback / 分析性量规+同伴互评 | Section "Evaluation Tools" (3.5-3.8) |
 | A textbook-to-writing task conversion / 课文到写作任务转化 | Lesson Conversion / 课时转化 | Section "Textbook Cases" |
 
 If the user asks for "everything" or "a complete package," provide a Workflow Plan first, then attach the matching Prompt Cards and Worksheets.
